@@ -25,7 +25,9 @@ publish  'broker_ip_address'  'topic_name'  'data to publish'
 ```
 
 4. If you want to terminate connection type
-    quit
+```
+quit
+```
 
 ### Note:
 You can run subscriber and publisher at the same time and
